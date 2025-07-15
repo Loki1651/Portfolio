@@ -1,4 +1,4 @@
-# Portfolio
+# Data Science Portfolio
 # 👋 Hi, I'm Tanguturu Lokesh Babu
 
 Aspiring Data Scientist with a background in Electronics & Communication Engineering and certified training in Python, SQL, Machine Learning, and Data Analysis. Passionate about solving business problems using data-driven insights.
