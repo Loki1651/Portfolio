@@ -57,21 +57,17 @@ A wearable vest that uses TENS, Peltier modules, and IoT (ESP8266 + Arduino Clou
 - TENS for pain relief
 - Controlled via mobile app using Arduino Cloud
 
-➡️ _Add project folder with code, diagrams, and `README.md` explanation here_
 
 ---
 
-## 📈 Portfolio Projects (To Add)
+## 📈 Portfolio Projects 
 
-- [ ] EDA on Cardiographic Dataset  
-- [ ] Dynamic Pricing Strategy using ML  
-- [ ] Movie Recommendation System (optional)  
-- [ ] Web scraping + Dashboard with Streamlit
+
+- [ ] Dynamic Pricing Strategy using ML
 
 ---
 
 ## 📌 Goals (2025)
-- Complete 3+ real-world ML projects  
-- Practice SQL + Python daily  
+
 - Contribute to open-source data science repos  
 - Land a Data Analyst / Jr. Data Scientist role
