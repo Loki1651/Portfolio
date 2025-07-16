@@ -40,7 +40,7 @@ CGPA: 7.2 (2021–2025)
 ## 💼 Experience
 
 **Python Programming Intern – Motioncut (Mar 2025)**  
-- Worked on projects using Pandas, NumPy, and Matplotlib  
+- Worked on project using Pandas, NumPy, and Matplotlib  
 - Improved debugging and industry-level coding skills  
 - Practiced version control using Git  
 
@@ -57,13 +57,26 @@ A wearable vest that uses TENS, Peltier modules, and IoT (ESP8266 + Arduino Clou
 - TENS for pain relief
 - Controlled via mobile app using Arduino Cloud
 
+### 2. Random Username Generator
+*Feb 2025 - Mar 2025
+A Python project that generates random usernames using adjectives, nouns, numbers, and special characters.
 
+## 💡 Features
+- Combines adjectives and nouns randomly
+- Optional numbers and special characters
+- Username length customization
+- Saves usernames to usernames.txt
+- Tracks usage with Pandas
+- Plots stats with Matplotlib
+
+## 📊 Libraries Used
+- random
+- string
+- numpy
+- pandas
+- matplotlib
 ---
 
-## 📈 Portfolio Projects 
-
-
-- [ ] Dynamic Pricing Strategy using ML
 
 ---
 
