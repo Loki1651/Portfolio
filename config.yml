@@ -1,0 +1,21 @@
+data:
+  api_url: https://api.openaq.org/v2/latest
+  api_key: null
+  raw_dir: data/raw
+  processed_dir: data/processed
+model:
+  path: models/random_forest.pkl
+  features:
+    - pm25
+    - pm10
+    - no2
+    - so2
+    - co
+    - o3
+    - temperature
+    - humidity
+    - wind_speed
+  target: aqi
+visualization:
+  map_output: reports/aqi_map.html
+  timeseries_output: reports/aqi_timeseries.html
