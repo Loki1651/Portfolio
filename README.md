@@ -1,25 +1,25 @@
 # Data Science Portfolio
-# 👋 Hi, I'm Tanguturu Lokesh Babu
+#  Hi, I'm Tanguturu Lokesh Babu
 
 Aspiring Data Scientist with a background in Electronics & Communication Engineering and certified training in Python, SQL, Machine Learning, and Data Analysis. Passionate about solving business problems using data-driven insights.
 
 ---
 
-## 📫 Contact
+##  Contact
 - **Email:** lokeshtanguturu6@gmail.com  
 - **LinkedIn:** [lokeshbabutanguturu](http://linkedin.com/in/lokeshbabutanguturu)  
 - **GitHub:** [lokeshbabutanguturu](https://github.com/lokeshbabutanguturu)
 
 ---
 
-## 🎓 Education
+##  Education
 **B.Tech - Electronics & Communication Engineering**  
 Sri Venkateswara College Of Engineering, Tirupati  
 CGPA: 7.2 (2021–2025)
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 - **Languages:** Python, SQL  
 - **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
@@ -29,9 +29,9 @@ CGPA: 7.2 (2021–2025)
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
-- AI & Data Scientist – OneRoadmap – *May 2025*  
+- Data Science -ExcelR - Nov 2025 
 - Python Programming – Motioncut – *March 2025*  
 - SQL for Data Science – Great Learning – *July 2025*  
 
@@ -61,7 +61,7 @@ A wearable vest that uses TENS, Peltier modules, and IoT (ESP8266 + Arduino Clou
 *Feb 2025 - Mar 2025
 A Python project that generates random usernames using adjectives, nouns, numbers, and special characters.
 
-## 💡 Features
+##  Features
 - Combines adjectives and nouns randomly
 - Optional numbers and special characters
 - Username length customization
@@ -69,16 +69,34 @@ A Python project that generates random usernames using adjectives, nouns, number
 - Tracks usage with Pandas
 - Plots stats with Matplotlib
 
-## 📊 Libraries Used
+##  Libraries Used
 - random
 - string
 - numpy
 - pandas
 - matplotlib
----
+
+### 3. Apple Stock Market Analysis
+ This project is a 30-day Apple (AAPL) stock price forecasting application built by our team, where we implemented the complete Data Science lifecycle from data preparation to model building, and I independently handled the deployment and dashboard integration using Streamlit.
+ 
+### What We Did (Team Contribution)
+
+-Collected & prepared AAPL historical stock data
+-Performed EDA to analyze trend, seasonality, and volatility
+-Handled missing values, outliers, and time-series preprocessing
+-Trained and tuned a SARIMA model for 30-day forecasting
+-Serialized the trained model into .pkl format for deployment
+
+## My Contribution (Deployment — Your part )
+
+-Built app.py Streamlit dashboard
+-Loaded the SARIMA .pkl model using Pickle
+-Fixed deployment challenges like permission errors and negative forecast values
+-Integrated metrics, charts, and sidebar controls
+-Ensured the web app runs smoothly on local systems and is share-ready
 
 
----
+
 
 ## 📌 Goals (2025)
 
